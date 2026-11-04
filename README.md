@@ -2,9 +2,26 @@
 
 # Raymond Cotton | Cybersecurity Portfolio 🔐
 
-**Aspiring Cybersecurity Analyst | Threat Hunting | Incident Response | Microsoft Sentinel | Microsoft Defender XDR**
+## 👋 Hi, I'm Raymond Cotton!
 
-I'm passionate about cybersecurity and building hands-on experience in security monitoring, threat detection, incident investigation, and vulnerability management.
+🔐 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Threat Hunter**
+
+Welcome to my GitHub! I'm passionate about cybersecurity, threat detection, incident response, and protecting systems from emerging threats.
+
+💻 My hands-on cybersecurity experience includes:
+
+- 🛡️ **Microsoft Sentinel & Defender XDR** — Security monitoring and threat investigation
+- 🔎 **Threat Hunting** — Analyzing suspicious activity using KQL
+- 🚨 **Incident Response** — Investigating security incidents and documenting findings
+- 🌐 **Network Security** — Analyzing authentication events and network activity
+- 🎯 **MITRE ATT&CK** — Mapping attacker techniques to observed behavior
+- 📊 **Security Visualization** — Building Microsoft Sentinel workbooks and authentication maps
+
+### 🚀 My Mission
+
+To continuously develop my cybersecurity skills, investigate real-world attack techniques, and build practical security solutions.
+
+**Explore my repositories to see my cybersecurity projects and investigations!**
 
 ## 🛡️ Cybersecurity Projects
 
@@ -24,17 +41,3 @@ I'm passionate about cybersecurity and building hands-on experience in security 
 [LinkedIn](https://www.linkedin.com/in/raymond-cotton-2a377742/) | [GitHub](https://github.com/rcredd85)
 
 
-<!--
-**rcredd85/rcredd85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
