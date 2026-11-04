@@ -1,6 +1,5 @@
 ![Raymond Cotton Cybersecurity Banner](https://raw.githubusercontent.com/rcredd85/Intro/main/raymond_cotton_warp_speed_banner.gif)
 
-# Raymond Cotton | Cybersecurity Portfolio 🔐
 
 ## 👋 Hi, I'm Raymond Cotton!
 
