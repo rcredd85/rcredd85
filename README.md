@@ -43,7 +43,7 @@ A documented investigation examining suspicious authentication, database activit
 
 #### Forensic Evidence — MySQL Ransom Note
 
-![MySQL Workbench Ransom Note](https://raw.githubusercontent.com/rcredd85/corp-ra01-te123da-Soc-Investigation/main/evidence/ransom-note/c2e829ac-57e9-4b4e-ac94-13d534fdf6df.png)
+![MySQL Ransom Note](https://raw.githubusercontent.com/rcredd85/corp-ra01-te123da-Soc-Investigation/main/evidence/ransom-note/mysql-ransom-note.png)
 
 **Evidence:** Ransom demand observed in the MySQL `recover_your_data` table.
 
