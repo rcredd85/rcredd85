@@ -56,6 +56,12 @@ A hands-on threat hunting project focused on authentication telemetry, suspiciou
 - Microsoft Sentinel workbooks
 - Security dashboards and investigation documentation
 
+### Microsoft Sentinel — Inbound Authentication Origins
+
+![Microsoft Sentinel Inbound Authentication Origins Map](https://raw.githubusercontent.com/rcredd85/Microsoft-Sentinel-SOC-Threat-Hunting/main/screenshots/inbound-authentication-origins-redacted.png)
+
+*Real Microsoft Sentinel workbook screenshot showing geographic authentication origins and source-IP activity. Sensitive information has been redacted for public sharing. Authentication activity alone does not establish malicious intent.*
+
 ---
 
 ## Cybersecurity Projects
