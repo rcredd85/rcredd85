@@ -7,6 +7,12 @@
 
 **Microsoft Sentinel • Defender XDR • KQL • Security Operations**
 
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=for-the-badge)
+![Defender XDR](https://img.shields.io/badge/Defender-XDR-5C2D91?style=for-the-badge)
+![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-008080?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-CB2D3E?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident-Response-2E8B57?style=for-the-badge)
+
 Welcome to my cybersecurity portfolio!
 
 I'm an aspiring SOC Analyst developing hands-on skills in security monitoring, threat detection, incident response, and digital investigations.
