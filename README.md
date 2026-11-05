@@ -20,7 +20,6 @@ I'm an aspiring SOC Analyst developing hands-on skills in security monitoring, t
 My background in IT support, Windows troubleshooting, networking, and technical operations complements my cybersecurity lab experience.
 
 I use Microsoft Sentinel, Microsoft Defender XDR, KQL, and security telemetry to investigate suspicious behavior, document findings, and strengthen my understanding of security operations.
-
 ---
 ## Technical Skills & Security Tools
 
