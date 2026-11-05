@@ -38,11 +38,13 @@ I use Microsoft Sentinel, Microsoft Defender XDR, KQL, and security telemetry to
 **Focus Areas:** SOC Operations • Threat Detection • Incident Response • Digital Forensics • Vulnerability Management
 ## Certifications & Professional Development
 
-### Cybersecurity Certificate — Coursera
+### Google Cybersecurity Professional Certificate — Coursera
+
 **Status:** In Progress | Near Completion
 
-Currently completing cybersecurity training through Coursera while developing practical skills in security monitoring, threat detection, incident response, and cybersecurity fundamentals.
+Currently completing the Google Cybersecurity Professional Certificate through Coursera, developing knowledge in security operations, threat detection, incident response, network security, and cybersecurity fundamentals.
 
+**Career Focus:** SOC Analyst | Cybersecurity Analyst | Threat Hunter
 ### Hands-On Cybersecurity Training
 
 - **Microsoft Sentinel:** SIEM monitoring, KQL queries, and security investigations
