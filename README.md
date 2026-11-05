@@ -22,6 +22,20 @@ My background in IT support, Windows troubleshooting, networking, and technical 
 I use Microsoft Sentinel, Microsoft Defender XDR, KQL, and security telemetry to investigate suspicious behavior, document findings, and strengthen my understanding of security operations.
 
 ---
+## Technical Skills & Security Tools
+
+| Category | Tools & Skills |
+|---|---|
+| SIEM & Security Monitoring | Microsoft Sentinel, Azure Log Analytics, KQL, Security Event Analysis |
+| Endpoint Security | Microsoft Defender for Endpoint, Defender XDR, DeviceProcessEvents, DeviceLogonEvents, DeviceNetworkEvents |
+| Threat Hunting | Suspicious Authentication, Brute-Force Detection, IOC Investigation, MITRE ATT&CK Mapping |
+| Incident Response & DFIR | Incident Timeline Reconstruction, Evidence Review, Ransomware Investigation, Forensic Documentation |
+| Database Security | MySQL Authentication Logs, Query Log Analysis, Suspicious SQL Activity |
+| Networking | TCP/IP, DNS, DHCP, Network Troubleshooting, Remote Access |
+| Windows & IT Support | Windows 10/11, Microsoft 365, Active Directory Labs, Hardware and Software Troubleshooting |
+| Scripting & Query Languages | Kusto Query Language (KQL), SQL, PowerShell (Lab Experience) |
+
+**Focus Areas:** SOC Operations • Threat Detection • Incident Response • Digital Forensics • Vulnerability Management
 
 ## Featured SOC Investigations
 
