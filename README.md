@@ -36,6 +36,22 @@ I use Microsoft Sentinel, Microsoft Defender XDR, KQL, and security telemetry to
 | Scripting & Query Languages | Kusto Query Language (KQL), SQL, PowerShell (Lab Experience) |
 
 **Focus Areas:** SOC Operations • Threat Detection • Incident Response • Digital Forensics • Vulnerability Management
+## Certifications & Professional Development
+
+### Cybersecurity Certificate — Coursera
+**Status:** In Progress | Near Completion
+
+Currently completing cybersecurity training through Coursera while developing practical skills in security monitoring, threat detection, incident response, and cybersecurity fundamentals.
+
+### Hands-On Cybersecurity Training
+
+- **Microsoft Sentinel:** SIEM monitoring, KQL queries, and security investigations
+- **Microsoft Defender XDR:** Endpoint telemetry analysis and threat hunting
+- **Incident Response:** Ransomware investigations, forensic evidence review, and incident reporting
+- **MySQL Security:** Authentication analysis and suspicious database activity
+- **Vulnerability Management:** Security assessments and remediation workflows
+
+**Career Focus:** SOC Analyst | Cybersecurity Analyst | Threat Hunter
 
 ## Featured SOC Investigations
 
