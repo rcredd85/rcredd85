@@ -1,42 +1,134 @@
+
 ![Raymond Cotton Cybersecurity Banner](https://raw.githubusercontent.com/rcredd85/Intro/main/raymond_cotton_warp_speed_banner.gif)
 
+# Raymond Cotton
 
-## 👋 Hi, I'm Raymond Cotton!
+### SOC Analyst in Training | Threat Hunting | Incident Response
 
-🔐 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Threat Hunter**
+**Microsoft Sentinel • Defender XDR • KQL • Security Operations**
 
-Welcome to my GitHub! I'm passionate about cybersecurity, threat detection, incident response, and protecting systems from emerging threats.
+Welcome to my cybersecurity portfolio!
 
-💻 My hands-on cybersecurity experience includes:
+I'm an aspiring SOC Analyst developing hands-on skills in security monitoring, threat detection, incident response, and digital investigations.
 
-- 🛡️ **Microsoft Sentinel & Defender XDR** — Security monitoring and threat investigation
-- 🔎 **Threat Hunting** — Analyzing suspicious activity using KQL
-- 🚨 **Incident Response** — Investigating security incidents and documenting findings
-- 🌐 **Network Security** — Analyzing authentication events and network activity
-- 🎯 **MITRE ATT&CK** — Mapping attacker techniques to observed behavior
-- 📊 **Security Visualization** — Building Microsoft Sentinel workbooks and authentication maps
+My background in IT support, Windows troubleshooting, networking, and technical operations complements my cybersecurity lab experience.
 
-### 🚀 My Mission
+I use Microsoft Sentinel, Microsoft Defender XDR, KQL, and security telemetry to investigate suspicious behavior, document findings, and strengthen my understanding of security operations.
 
-To continuously develop my cybersecurity skills, investigate real-world attack techniques, and build practical security solutions.
+---
 
-**Explore my repositories to see my cybersecurity projects and investigations!**
+## Featured SOC Investigations
 
-## 🛡️ Cybersecurity Projects
+### 1. MySQL Ransomware Incident Investigation
 
-- [IT and Cybersecurity Project Portfolio](https://github.com/rcredd85/Intro)
-- [Vulnerability Management Program Implementation](https://github.com/rcredd85/Vulnerability-Management-Program/tree/main)
-- [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/rcredd85/New)
-- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rcredd85/Threat-Hunting-Scenario)
+**Microsoft Defender | Microsoft Sentinel | KQL | MySQL**
 
-## 🔎 Technical Skills
+[View SOC Investigation](https://github.com/rcredd85/corp-ra01-te123da-Soc-Investigation)
 
-**Security:** Microsoft Sentinel, Microsoft Defender XDR, KQL, Threat Hunting, Incident Response, Log Analysis
+A documented investigation examining suspicious authentication, database activity, and potential ransomware-related behavior.
 
-**IT:** Windows 10/11, Microsoft 365, Active Directory, Networking Fundamentals, Technical Support
+**Investigation areas:**
+- Authentication and suspicious login attempts
+- Endpoint process and network analysis
+- MySQL authentication and query log investigation
+- Indicators of compromise
+- Incident timeline reconstruction
+- Evidence-based incident reporting
 
-## 🤝 Connect With Me
+### 2. Microsoft Sentinel SOC Threat Hunting
+
+**Microsoft Sentinel | Defender XDR | KQL | Log Analytics**
+
+[View Threat Hunting Project](https://github.com/rcredd85/Microsoft-Sentinel-SOC-Threat-Hunting)
+
+A hands-on threat hunting project focused on authentication telemetry, suspicious remote access, and security visualization.
+
+**Project areas:**
+- KQL threat hunting queries
+- Inbound authentication analysis
+- Source IP geolocation
+- Microsoft Sentinel workbooks
+- Security dashboards and investigation documentation
+
+---
+
+## Cybersecurity Projects
+
+### IT and Cybersecurity Project Portfolio
+
+[View Project](https://github.com/rcredd85/Intro)
+
+Hands-on technical and cybersecurity learning projects.
+
+### Vulnerability Management Program
+
+[View Project](https://github.com/rcredd85/Vulnerability-Management-Program/tree/main)
+
+Vulnerability identification, prioritization, remediation planning, and validation.
+
+### Programmatic Vulnerability Remediations
+
+[View Project](https://github.com/rcredd85/New)
+
+PowerShell and Bash scripting for vulnerability remediation and system security improvements.
+
+### Threat Hunting Scenario: Tor Browser Usage
+
+[View Project](https://github.com/rcredd85/Threat-Hunting-Scenario)
+
+Endpoint threat hunting scenario involving suspicious application activity and security telemetry.
+
+---
+
+## Technical Skills
+
+| Category | Technologies and Skills |
+|---|---|
+| SIEM | Microsoft Sentinel, Log Analytics |
+| Endpoint Security | Microsoft Defender XDR, Defender for Endpoint |
+| Threat Hunting | KQL, IOC Analysis, Log Correlation |
+| Incident Response | Investigation, Evidence Review, Reporting |
+| Security Frameworks | MITRE ATT&CK |
+| Operating Systems | Windows 10/11 |
+| IT Administration | Microsoft 365, Active Directory |
+| Networking | TCP/IP, DNS, DHCP, Troubleshooting |
+| Scripting | PowerShell, Bash |
+| Database Security | MySQL Authentication and Query Log Analysis |
+
+---
+
+## My Security Investigation Workflow
+
+1. Identify suspicious security activity.
+2. Define the investigation scope and timeframe.
+3. Collect relevant security telemetry.
+4. Analyze authentication, process, network, and file events.
+5. Correlate suspicious events and indicators of compromise.
+6. Map supported activity to MITRE ATT&CK.
+7. Document findings, evidence gaps, and recommendations.
+
+---
+
+## Professional Development
+
+Currently building practical experience in:
+
+- Security Operations Center investigations
+- Microsoft Sentinel and Defender XDR
+- Advanced KQL threat hunting
+- Digital forensics and incident response
+- Vulnerability management
+- Security automation
+
+**Career Goal:** SOC Analyst I / Junior Cybersecurity Analyst
+
+---
+
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/raymond-cotton-2a377742/) | [GitHub](https://github.com/rcredd85)
 
+---
 
+*Cybersecurity investigations are documented as educational and portfolio projects. Findings are based on available evidence, with limitations identified where appropriate.*
+  
