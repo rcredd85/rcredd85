@@ -41,6 +41,21 @@ A documented investigation examining suspicious authentication, database activit
 - Incident timeline reconstruction
 - Evidence-based incident reporting
 
+#### Forensic Evidence — MySQL Ransom Note
+
+![MySQL Workbench Ransom Note](https://raw.githubusercontent.com/rcredd85/corp-ra01-te123da-Soc-Investigation/main/evidence/ransom-note/c2e829ac-57e9-4b4e-ac94-13d534fdf6df.png)
+
+**Evidence:** Ransom demand observed in the MySQL `recover_your_data` table.
+
+**Analyst findings:**
+- Bitcoin ransom demand of 0.0101 BTC
+- Threat of public data disclosure
+- Attacker-provided payment instructions
+- Evidence of extortion activity; successful data exfiltration not independently confirmed
+
+[View Full Ransomware Evidence Gallery](https://github.com/rcredd85/corp-ra01-te123da-Soc-Investigation/tree/main/evidence/ransom-note)
+
+
 ### 2. Microsoft Sentinel SOC Threat Hunting
 
 **Microsoft Sentinel | Defender XDR | KQL | Log Analytics**
