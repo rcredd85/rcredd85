@@ -33,6 +33,30 @@ I use Microsoft Sentinel, Microsoft Defender XDR, KQL, and security telemetry to
 
 A documented investigation examining suspicious authentication, database activity, and potential ransomware-related behavior.
 
+### SOC Investigation Summary
+
+**Investigation Type:** MySQL Ransomware / Data Extortion Investigation  
+**Environment:** Microsoft Defender for Endpoint, Microsoft Sentinel, Azure Log Analytics, MySQL  
+**Role:** SOC Analyst — Hands-on Cyber Range Investigation
+
+**Objective:** Investigate suspicious authentication activity, database operations, and potential ransomware-related behavior affecting a Windows-hosted MySQL environment.
+
+**Investigation Methodology:**
+- Analyzed Windows authentication events to identify suspicious login activity and potential unauthorized access.
+- Examined MySQL authentication and query logs for unusual database operations and indicators of compromise.
+- Used Kusto Query Language (KQL) to investigate endpoint process execution, network activity, and related security telemetry.
+- Documented ransom note evidence recovered from the MySQL `recover_your_data` table.
+- Reviewed attacker-provided payment instructions and threats of public data disclosure.
+- Documented investigative findings, potential MITRE ATT&CK techniques, and evidence limitations.
+
+**Key Findings:**
+- Identified a Bitcoin ransom demand of 0.0101 BTC within the database environment.
+- Documented threats of public data disclosure and attacker-provided recovery instructions.
+- Preserved screenshots of the ransom note and associated payment instructions.
+- Identified evidence consistent with an attempted data-extortion incident; successful data exfiltration was not independently confirmed.
+
+**Skills Demonstrated:** Threat Hunting | KQL | Log Analysis | Incident Response | Digital Forensics | Microsoft Defender | Microsoft Sentinel | MySQL Security
+
 **Investigation areas:**
 - Authentication and suspicious login attempts
 - Endpoint process and network analysis
