@@ -213,4 +213,27 @@ Currently building practical experience in:
 ---
 
 *Cybersecurity investigations are documented as educational and portfolio projects. Findings are based on available evidence, with limitations identified where appropriate.*
+
+
   
+---
+
+## 🛡️ PunyGuard XDR — Python Phishing Detection
+
+**Project:** [PunyGuard XDR](https://github.com/rcredd85/PunyGuard-XDR)
+
+Developed a Python-based cybersecurity detection prototype to identify Punycode homograph attacks, suspicious domains, and potential brand impersonation.
+
+### Key Capabilities
+- Real-time DNS traffic monitoring using Scapy
+- Punycode and Unicode homograph detection
+- Automated phishing risk scoring
+- Brand impersonation detection
+- VirusTotal threat intelligence integration
+- Windows desktop security alerts
+- JSON security event logging
+
+**Skills Demonstrated:** Python | Network Security | Threat Detection | DNS Analysis | Threat Intelligence | SOC Automation
+
+[View Project and Detection Screenshots](https://github.com/rcredd85/PunyGuard-XDR)
+
